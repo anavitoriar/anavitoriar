@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Tenho 19 anos, estudo **Engenharia de Software**, e concluí o Ensino Médio integrado ao curso técnico de **Informática no IFG**.  
+🎓 Tenho 19 anos, curso **Engenharia de Software**, e concluí o Ensino Médio integrado ao curso técnico de **Informática no IFG**.  
 🚀 Atuo com **licitação** e **automação de processos usando Python**, desenvolvendo ferramentas para otimizar tarefas repetitivas.
 
 ---
